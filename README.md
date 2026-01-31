@@ -16,9 +16,6 @@ Geographic Mapping: Visualized hiring density across the US, identifying Chicago
 Data Visualization: [e.g., Power BI / Tableau / Excel]
 
 Mapping Technology: Microsoft Bing Maps Integration
-
-Data Source: [Mention your dataset source here, e.g., Kaggle, LinkedIn Scrape, etc.]
-
 🔍 Key Insights from the Data
 Market Demand: The "Data Analyst" role dominates the market, comprising nearly 21% of the total jobs analyzed.
 
