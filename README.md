@@ -49,7 +49,7 @@ While some companies lead in volume, others lead in compensation. The "Average S
 Algo Capital Group and PCS Retirement are identified as top-tier payers with average salaries nearing or exceeding $400K - $500K.
 
 Notable tech and AI firms like Anthropic and DoorDash also show strong average salary offerings in the $250K+ range.
-![Dashboard Screenshot](Companyhiring.png)
+![Dashboard Screenshot](Companyhiring insight.png)
 To complete your GitHub README, here are the Project Methodology and Technical Implementation sections. These explain how you actually built the dashboard and the logic behind your data model.
 
 ⚙️ Project Methodology
